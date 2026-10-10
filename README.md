@@ -1,3 +1,5 @@
+```
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:6FA8DC&height=160&section=header&text=Srushti%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -36,7 +38,7 @@ Research:
 Achievements:
   - 🏆 Winner - Locus CodeForHer Challenge
 ```
-
+```
 ---
 
 ## 📈 Data Science & Analytics Toolkit
@@ -166,3 +168,6 @@ Achievements:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:6FA8DC&height=100&section=footer"/>
 
 </div>
+
+
+```
